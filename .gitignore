@@ -1,7 +1,7 @@
 .*
 
 # project specific ignores
-lindylist_tools.db
+lindylisttools.db
 
 
 # Byte-compiled / optimized / DLL files
